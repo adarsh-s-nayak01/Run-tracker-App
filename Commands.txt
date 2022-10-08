@@ -1,3 +1,10 @@
+******
+react-native-elements
+->it is the pre-built set of common components. for that 
+npm install react-native-elements --legacy-peer-deps
+
+
+
 //after creating track-server folder.
 npm init -y
 //generates json file in track-server folder.
